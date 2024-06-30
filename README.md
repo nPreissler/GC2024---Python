@@ -1,11 +1,15 @@
-<h1>Geração Caldeira 2024</h1>
-<h2>Trilha de Python</h2>
+<h1>
+Trilha online de Python GC2024
+</h1>
 
-<h3>127 Horas de duração</h3>
-<h3>13 Cursos</h3>
-<h3>4 Artigos</h3>
-<h3>7 Módulos</h3>
+<h4>
+Duração: 127 horas
+<br>
+Conteúdos: Habilidades comportamentais, Javascript, Git & GitHub, Python, Python com foco em Ciência de dados e Métodos ágeis.
+<br>
+!-- Todo material presente neste repositório foi disponilizado por: <a href="https://institutocaldeira.org.br/">Instituto Caldeira</a> e <a href="https://www.alura.com.br/">Alura</a> --!
+</h4>
 
-Descrubra mais sobre o <a href="https://www.geracaocaldeira.org/">GC</a>!
+<p>Descrubra mais sobre o <a href="https://www.geracaocaldeira.org/">Geração Caldeira</a>.</p>
 
 <img src="https://i.ytimg.com/vi/rNwtBS3Qby4/maxresdefault.jpg">
