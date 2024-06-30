@@ -1,0 +1,12 @@
+
+git init = inicia o git
+git init . = inicia o git com todos os arquivos já pré-selecionados
+git commit -m "sua mensagem" = define um commit 
+git branch -M main = cria a branch main
+git remote add origin sshKey(git@github/blablabla) = conecta os commits deitos no local com o rep remoto
+git push -u origin main = envia os commits (basicamente um deploy)
+git status = exibe as condições do diretório de trabalho
+git clone HTTPS://github.blablabla... = clona o rep na sua maquina já conectado ao git 
+git log = mostra as alterações e informações e quem fez cada aletração/commit
+git pull origin main = puxa o que foi aletrado no rep remoto para manter o rep local atualizado
+
