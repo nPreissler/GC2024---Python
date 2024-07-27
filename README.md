@@ -12,5 +12,7 @@ Conteúdos: Habilidades comportamentais, Javascript, Git & GitHub, Python, Pytho
 </h4>
 
 <p>Descrubra mais sobre o <a href="https://www.geracaocaldeira.org/">Geração Caldeira</a>.</p>
+<br>
+<hr>
 
 <img src="https://i.ytimg.com/vi/rNwtBS3Qby4/maxresdefault.jpg">
